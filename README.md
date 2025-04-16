@@ -14,4 +14,3 @@ This project aims to detect Distributed Denial of Service (DDoS) attacks using m
 - `trained_logistic_model_ip.pkl`: Pickle file containing the trained logistic regression model.
 - `trained_scaler_ip.pkl`: Pickle file containing the trained scaler for data normalization.
 
-## Usage
