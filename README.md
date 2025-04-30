@@ -1,5 +1,3 @@
-# ddos-detection-ml
-DDoS Detection with Machine Learning: A project focused on using machine learning algorithms to identify and mitigate DDoS attacks by analyzing network traffic patterns.
 # DDoS Detection with Machine Learning
 
 This project aims to detect Distributed Denial of Service (DDoS) attacks using machine learning algorithms. By analyzing network traffic patterns, the system can differentiate between legitimate and malicious traffic, allowing for proactive defense against DDoS attacks.
